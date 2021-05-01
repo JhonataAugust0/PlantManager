@@ -1,11 +1,12 @@
 import React, { useEffect, useState } from 'react';
-import { StyleSheet, View, Text, Image } from 'react-native';
+import { StyleSheet, View, Text, Image, Button, Alert } from 'react-native';
 import { getStatusBarHeight } from 'react-native-iphone-x-helper';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 import userImg from '../assets/biro.png';
 import colors from '../styles/colors';
 import fonts from '../styles/fonts';
+import Swich  from 'react-switch'
 
 export function Header() {
   const [userName, setUserName] = useState<string>();
@@ -20,11 +21,18 @@ export function Header() {
     loadStorageUserName()
   }, [userName])
 
+  const emojis = {
+    sun: '🌞',
+    moon: '🌙'
+  }
+
+  function handleTheme(){}
   return (
     <View style={styles.container}>
       <View>
         <Text style={styles.greeting}>Olá,</Text>
         <Text style={styles.username}>{userName}</Text>
+        
       </View>
 
       <Image source={userImg} style={styles.image} />
