@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { StyleSheet, View, Image, Text, FlatList, Alert } from "react-native";
+import { StyleSheet, View, Image, Text, FlatList, Alert, Button } from "react-native";
 import { Header } from "../components/Header";
 import colors from "../styles/colors";
 
@@ -10,11 +10,15 @@ import { pt } from "date-fns/locale";
 import fonts from "../styles/fonts";
 import { PlantCardSecondary } from "../components/PlantCardSecondary";
 import { Load } from "../components/Load";
+import { RegisterYourPlant } from '../pages/RegisterYourPlant'
+import { useNavigation } from '@react-navigation/core'
 
 export function MyPlants() {
   const [myPlants, setMyPlants] = useState<PlantProps[]>([]);
   const [loading, setLoading] = useState(true);
   const [nextWatered, setNextWatered] = useState<string>();
+
+  const navigation = useNavigation();
 
   function handleRemove(plant: PlantProps) {
     Alert.alert("Remover", `Deseja remover a ${plant.name}?`, [
@@ -61,9 +65,16 @@ export function MyPlants() {
 
   if (loading) return <Load />;
 
+  function pageRegisterPlant(){
+    navigation.navigate('RegisterYourPlant');
+  }
   return (
     <View style={styles.container}>
       <Header />
+      
+      <View style={styles.button}>
+        <Button title={'Sua planta não está aqui? Cadastre-a!'} color={'#008000'} onPress={pageRegisterPlant}/>
+      </View>
 
       <View style={styles.spotlight}>
         <Image source={waterdrop} style={styles.spotlightImage} />
@@ -72,7 +83,6 @@ export function MyPlants() {
 
       <View style={styles.plants}>
         <Text style={styles.plantsTitle}>Próximas regadas</Text>
-
         <FlatList
           data={myPlants}
           keyExtractor={(item) => String(item.id)}
@@ -129,4 +139,11 @@ const styles = StyleSheet.create({
     color: colors.heading,
     marginVertical: 20,
   },
+  button: {
+    alignItems: "center",
+    justifyContent: "space-between",
+    paddingBottom: 20,
+    borderRadius: 20,
+    fontFamily: fonts.complement
+  }
 });
