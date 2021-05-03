@@ -96,7 +96,10 @@ This project was developed using the following technologies:
 Clone the project and access the folder
 
 ```bash
-$ git clone https://github.com/JhonataAugust0/PlantManager.git && cd PlantManager
+# Clone the repository
+$ git clone https://github.com/JhonataAugust0/PlantManager.git 
+# Access the project folder in the terminal
+cd PlantManager
 ```
 
 Follow the steps below
@@ -113,7 +116,6 @@ cd /src/services/
 Execute json-server db.json --host [your IP address] --port 3333 --delay 700
 ```
 ## 💻 Project
-
 App to always remember to water your plants 🌱
 
 This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during April 19-25, 2021.
