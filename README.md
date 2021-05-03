@@ -21,66 +21,66 @@
 </p>
 
 
-## Funcionalidades e benefícios
-* Cuide muito bem das suas plantas;
-* Notificação  visual;
-* Os benefícios de ter plantas em casa vão muito além da beleza das flores – algumas, além de curingas na decoração em lugares estratégicos como a mesa de centro, ajudam até a purificar o ar.
+## Features and benefits
+* Take good care of your plants;
+* Visual notification;
+* The benefits of having plants at home go far beyond the beauty of flowers - some, in addition to wildcards in decoration in strategic places such as the coffee table, even help to purify the air.
  
 <br>
 <details>
-    <summary>Você pode ver as vantagens de ter plantas em casa logo abaixo!</summary>
+    <summary>You can see the benefits of having plants at home below!</summary>
 
 ```
-1. Plantas inspiram relaxamento: 
-É impossível observar as pétalas vibrantes da violeta africana (Saintpaulia ionantha) 
-sem sentir a calmaria da cor! De acordo com a NASA, é científico: a espéciecausa um pequeno 
-estímulo para a liberação de adrenalina em nosso corpo, que aumenta os níveis de energia e 
-oxigenação, nos ajudando a relaxar.
+1. Plants inspire relaxation:
+It is impossible to observe the vibrant petals of the African violet (Saintpaulia ionantha)
+without feeling the lull of color! According to NASA, it is scientific: the species causes a small
+stimulus for the release of adrenaline in our body, which increases energy levels and
+oxygenation, helping us to relax.
 
-2. Elas são umidificadores naturais:
-Em vez de comprar um eletrodoméstico grande e difícil de camuflar ao décor, invista em
-algumas samambaias-americanas (Nephrolepis exaltata) pela casa. As plantas liberam umidade
-por sua transpiração e ajudam a tornar o ambiente mais agradável.
+2. They are natural humidifiers:
+Instead of buying a large, hard-to-camouflage home appliance, invest in
+some American ferns (Nephrolepis exaltata) around the house. Plants release moisture
+perspiration and help make the environment more pleasant.
 
-3. Algumas são remédios naturais:
-De acordo com o National Institutes of Health, a aloe vera era conhecida como a “planta da
-imortalidade” no antigo Egito e usada para curar feridas. Hoje em dia, costumamos usá-la para
-tratar queimaduras solares e ela é princípio ativo de diversos tratamentos de beleza.
+3. Some are natural remedies:
+According to the National Institutes of Health, aloe vera was known as the “plant of the
+immortality ”in ancient Egypt and used to heal wounds. Nowadays, we usually use it to
+treat sunburn and it is an active ingredient in several beauty treatments.
 
-4. Elas inspiram criatividade:
-Quem realiza trabalhos criativos pode se beneficiar das plantas! De acordo com o expert em jardinagem
-da Costa Farms, Justin Hancock, folhas coloridas trazem inspiração e energizam o que há ao seu redor.
+4. They inspire creativity:
+Those who do creative work can benefit from plants! According to the gardening expert
+from Costa Farms, Justin Hancock, colorful leaves bring inspiration and energize what's around you.
 
-5. Podem minimizar alergias:
-Se você sofre de alergias, pode usar plantas sem flores como suas aliadas. As folhas do clorofito 
-(Chlorophytum comosum) absorvem alergênicos como mofo e poeira. A lista da NASA sobre plantas que podem 
-limpar o ar mostra que essa espécie consegueeliminar quase 90% das toxinas de um ambiente. Veja 19 plantas
-que purificam o ar, segundo a NASA.
+5. Can minimize allergies:
+If you have allergies, you can use plants without flowers as your allies. The leaves of the chlorophyte
+(Chlorophytum comosum) absorb allergens such as mold and dust. NASA's list of plants that can
+cleaning the air shows that this species can eliminate almost 90% of the toxins from an environment. See 19 plants
+that purify the air, according to NASA.
 
-6. Plantas limpam o ar:
-A mesma pesquisa mostra que a hera (Hedera helix) é a número um em filtrar o ar, principalmente quando 
-este tem concentrações de formaldeído.
+6. Plants clean the air:
+The same research shows that ivy (Hedera helix) is number one in filtering the air, especially when
+this has concentrations of formaldehyde.
 
-7. Suas cores acalmam os olhos:
-Entre os benefícios decorativos das plantas está, de acordo com a Good Housekeeping, o alívio dos olhos cansados.
-Observar as folhas verdes após horas trabalhando na frente de um computador pode ser uma boa pedida, já que o tom 
-é percebido pelo cérebro como suave.
+7. Your colors soothe your eyes:
+Among the decorative benefits of plants is, according to Good Housekeeping, the relief of tired eyes.
+Watching the green leaves after hours of working in front of a computer can be a good idea, as the shade
+is perceived by the brain as smooth.
 
-8. Elas ajudam na concentração:
-Um estudo do Royal College of Agriculture descobriu que os alunos prestavam 70% mais atenção quando em um ambiente 
-com plantas. Se sua casa não possui muita luz, aposte em algumas variedades que se dão bem nos ambientes fechados. 
-Na dúvida, escolha o bambu – ele também ajuda com as energias relacionadas ao Feng Shui.
+8. They help with concentration:
+A study by the Royal College of Agriculture found that students paid 70% more attention when in an environment
+with plants. If your house doesn't have a lot of light, bet on some varieties that do well indoors.
+When in doubt, choose bamboo - it also helps with energies related to Feng Shui.
 
-9. São decorativas:
-As plantas são um dos elementos essenciais das casas realmente estilosas. Além das inegáveis qualidades naturais, 
-elas também podem ser usadas pelas suas cores, complementando o décor.
+9. They are decorative:
+Plants are one of the essential elements of really stylish homes. In addition to the undeniable natural qualities,
+they can also be used for their colors, complementing the decor.
 
-10.  O estresse vai embora:
-Anda arrancando os cabelos no trabalho? Um vaso de plantas em cima da mesa pode te ajudar a respirar fundo e se acalmar. 
-Um relatório do Journal of Environmental Psychology aponta que flores como o Antúrio ajudam a diminuir os níveis de estresse.
+10. Stress goes away:
+Are you pulling your hair out at work? A potted plant on the table can help you take a deep breath and calm down.
+A report by the Journal of Environmental Psychology points out that flowers like Anthurium help to lower stress levels.
 ```
 </details>
-<span>Por Débora Fernandes - Jornalista (https://exame.com/casual/10-bons-motivos-para-voce-ter-mais-plantas-em-casa/)</span>
+<span>By Débora Fernandes - Journalist (https://exame.com/casual/10-bons-motivos-para-voce-ter-mais-plantas-em-casa/)</span>
 </br>
 
 ## 🧪 Technologies
