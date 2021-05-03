@@ -81,6 +81,7 @@ Um relatório do Journal of Environmental Psychology aponta que flores como o An
 ```
 </details>
 <span>Por Débora Fernandes - Jornalista (https://exame.com/casual/10-bons-motivos-para-voce-ter-mais-plantas-em-casa/)</span>
+</br>
 
 ## 🧪 Technologies
 
@@ -111,3 +112,23 @@ cd /src/services/
 # Change the baseUrl to your IP address in the api.ts file
 Execute json-server db.json --host [your IP address] --port 3333 --delay 700
 ```
+## 💻 Project
+
+App to always remember to water your plants 🌱
+
+This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during April 19-25, 2021.
+
+## 🔖 Layout
+
+You can view the project layout through the links below:
+
+- [Layout](https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager) 
+
+Remembering that you need to have a [Figma](http://figma.com/) account to access it.
+
+## 📝 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+---
+
+Made with 💜 by [JhonataAugust0](https://github.com/JhonataAugust0/) 
